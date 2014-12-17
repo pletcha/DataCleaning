@@ -3,9 +3,9 @@ DataCleaning
 
 This repo holds a script used to produce a tidy data set prepared from statistics based on data gathered from mulitple accelerometer and gyroscope readings on the Samsung Galaxy S II smartphone.
 
-========================================================================================================================
-Andrew Pletch
-========================================================================================================================
+======================================================================================================================
+Author: Andrew Pletch
+======================================================================================================================
 
 This dataset is based on a human activity recognition experiment using samrtphones carried out by Jorge L. Reyes-Ortiz, <em>et al</em> at the SmartLab of the Universita degli Studi di Genova. (<a href="mailto:activityrecognition@smartlab.ws">Contact</a>). A summary of this experiment follows.
 
