@@ -30,9 +30,9 @@ The process followed in producing this data set is as follows:
 </li> 
 
 
-<li>The subject identifiers were just numeric identifiers 1 through 30. We next merged the subject identifier dataset with the combined features dataset and now  each feature dataset row had associated with it a specific subject.
+<li>The subject identifiers were just numeric identifiers 1 through 30. We next merged the observation subject identifier dataset with the combined features dataset and now  each feature dataset row had associated with it a specific subject.
 </li>
-<li>The activity identifiers were also numeric - 1 through 6. However, these corresponded to the activity names listed above - WALKING, WALKING_UPSTAIRS, etc. We next replaced all activity identifers in the activity dataset by the corresponding activity string identifier. We next merged the activity dataset with the combined subject/features dataset and now  each subject/feature dataset row had associated with it a specific activity.
+<li>The activity identifiers were also numeric - 1 through 6. However, these corresponded to the activity names listed above - WALKING, WALKING_UPSTAIRS, etc. We next replaced all activity identifers in the activity dataset by the corresponding activity string identifier. We next merged the observation activity dataset with the combined subject/features dataset and now  each subject/feature dataset row had associated with it a specific activity.
 </li>
 <li> The dataset thus created was saved for future testing purposes.
 </li>
